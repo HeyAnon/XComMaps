@@ -1,0 +1,436 @@
+<table class="wikitable sortable jquery-tablesorter" style="width:100%; text-align:center;">
+
+<thead><tr>
+<th width="20%" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Map</th>
+<th width="12%" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Image</th>
+<th width="17%" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Alien Mission(s)</th>
+<th width="17%" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Council Mission(s)</th>
+<th width="17%" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">EXALT Mission</th>
+<th width="17%" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Area of Operations
+</th></tr></thead><tbody>
+
+<tr>
+<td><a href="/index.php?title=Bar_(EU2012)" title="Bar (EU2012)">Bar</a></td>
+<td><a href="/index.php?title=File:BAR_(EU2012).png" class="image"><img alt="BAR (EU2012).png" src="/images/thumb/1/14/BAR_%28EU2012%29.png/100px-BAR_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/1/14/BAR_%28EU2012%29.png/150px-BAR_%28EU2012%29.png 1.5x, /images/thumb/1/14/BAR_%28EU2012%29.png/200px-BAR_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td></td>
+<td>Urban Large Structure
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Bar_(EU2012)" title="Bar (EU2012)">Bar Terror</a></td>
+<td><a href="/index.php?title=File:BAR_TERROR_(EU2012).png" class="image"><img alt="BAR TERROR (EU2012).png" src="/images/thumb/e/e9/BAR_TERROR_%28EU2012%29.png/100px-BAR_TERROR_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/e/e9/BAR_TERROR_%28EU2012%29.png/150px-BAR_TERROR_%28EU2012%29.png 1.5x, /images/thumb/e/e9/BAR_TERROR_%28EU2012%29.png/200px-BAR_TERROR_%28EU2012%29.png 2x"></a></td>
+<td>Terror Site</td>
+<td></td>
+<td></td>
+<td>Urban Large Structure
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Boulevard_(EU2012)" title="Boulevard (EU2012)">Boulevard</a></td>
+<td><a href="/index.php?title=File:BOULEVARD_(EU2012).png" class="image"><img alt="BOULEVARD (EU2012).png" src="/images/thumb/6/63/BOULEVARD_%28EU2012%29.png/100px-BOULEVARD_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/6/63/BOULEVARD_%28EU2012%29.png/150px-BOULEVARD_%28EU2012%29.png 1.5x, /images/thumb/6/63/BOULEVARD_%28EU2012%29.png/200px-BOULEVARD_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td>Bomb Disposal</td>
+<td>Covert Data Recovery</td>
+<td>Roadway
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Boulevard_(EU2012)" title="Boulevard (EU2012)">Boulevard Euro</a></td>
+<td><a href="/index.php?title=File:BOULEVARD_EURO_(EU2012).png" class="image"><img alt="BOULEVARD EURO (EU2012).png" src="/images/thumb/9/99/BOULEVARD_EURO_%28EU2012%29.png/100px-BOULEVARD_EURO_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/9/99/BOULEVARD_EURO_%28EU2012%29.png/150px-BOULEVARD_EURO_%28EU2012%29.png 1.5x, /images/thumb/9/99/BOULEVARD_EURO_%28EU2012%29.png/200px-BOULEVARD_EURO_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td></td>
+<td>Roadway
+</td></tr>
+<tr>
+<td><a href="/index.php?title=CemeteryGrand_(EU2012)" title="CemeteryGrand (EU2012)">Cemetery Grand</a></td>
+<td><a href="/index.php?title=File:CemeteryGrand.png" class="image"><img alt="CemeteryGrand.png" src="/images/thumb/0/04/CemeteryGrand.png/100px-CemeteryGrand.png" decoding="async" width="100" height="50" srcset="/images/thumb/0/04/CemeteryGrand.png/150px-CemeteryGrand.png 1.5x, /images/thumb/0/04/CemeteryGrand.png/200px-CemeteryGrand.png 2x"></a></td>
+<td>Abductions<br>Terror Site</td>
+<td>Asset Recovery<br>Bomb Disposal</td>
+<td></td>
+<td>Settlement
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Chryssalid_Hive_(EU2012)" title="Chryssalid Hive (EU2012)">Chryssalid Hive</a></td>
+<td><a href="/index.php?title=File:Site_Recon_(EU2012).png" class="image"><img alt="Site Recon (EU2012).png" src="/images/thumb/3/31/Site_Recon_%28EU2012%29.png/100px-Site_Recon_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/3/31/Site_Recon_%28EU2012%29.png/150px-Site_Recon_%28EU2012%29.png 1.5x, /images/thumb/3/31/Site_Recon_%28EU2012%29.png/200px-Site_Recon_%28EU2012%29.png 2x"></a></td>
+<td>Terror Site</td>
+<td>Site Recon</td>
+<td></td>
+<td>Waterfront
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Commercial_Alley_(EU2012)" title="Commercial Alley (EU2012)">Commercial Alley</a></td>
+<td><a href="/index.php?title=File:COMMERCIALALLEY_(EU2012).png" class="image"><img alt="COMMERCIALALLEY (EU2012).png" src="/images/thumb/7/75/COMMERCIALALLEY_%28EU2012%29.png/100px-COMMERCIALALLEY_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/7/75/COMMERCIALALLEY_%28EU2012%29.png/150px-COMMERCIALALLEY_%28EU2012%29.png 1.5x, /images/thumb/7/75/COMMERCIALALLEY_%28EU2012%29.png/200px-COMMERCIALALLEY_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td>Target Escort</td>
+<td></td>
+<td>Urban Block
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Commercial_Alley_(EU2012)" title="Commercial Alley (EU2012)">Commercial Alley EWI</a></td>
+<td><a href="/index.php?title=File:Commercial_Alley_EWI_(EU2012).png" class="image"><img alt="Commercial Alley EWI (EU2012).png" src="/images/thumb/d/d5/Commercial_Alley_EWI_%28EU2012%29.png/100px-Commercial_Alley_EWI_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/d/d5/Commercial_Alley_EWI_%28EU2012%29.png/150px-Commercial_Alley_EWI_%28EU2012%29.png 1.5x, /images/thumb/d/d5/Commercial_Alley_EWI_%28EU2012%29.png/200px-Commercial_Alley_EWI_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td>Covert Extraction</td>
+<td>Urban Block
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Commercial_Alley_(EU2012)" title="Commercial Alley (EU2012)">Commercial Alley Terror</a></td>
+<td><a href="/index.php?title=File:COMMERCIALALLEY_TERROR_(EU2012).png" class="image"><img alt="COMMERCIALALLEY TERROR (EU2012).png" src="/images/thumb/a/a8/COMMERCIALALLEY_TERROR_%28EU2012%29.png/100px-COMMERCIALALLEY_TERROR_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/a/a8/COMMERCIALALLEY_TERROR_%28EU2012%29.png/150px-COMMERCIALALLEY_TERROR_%28EU2012%29.png 1.5x, /images/thumb/a/a8/COMMERCIALALLEY_TERROR_%28EU2012%29.png/200px-COMMERCIALALLEY_TERROR_%28EU2012%29.png 2x"></a></td>
+<td>Terror Site</td>
+<td></td>
+<td></td>
+<td>Urban Block
+</td></tr>
+<tr>
+<td><a href="/index.php?title=CommercialRestaurant_(EU2012)" title="CommercialRestaurant (EU2012)">Commercial Restaurant</a></td>
+<td><a href="/index.php?title=File:COMMERCIAL_RESTAURANT.png" class="image"><img alt="COMMERCIAL RESTAURANT.png" src="/images/thumb/6/67/COMMERCIAL_RESTAURANT.png/100px-COMMERCIAL_RESTAURANT.png" decoding="async" width="100" height="50" srcset="/images/thumb/6/67/COMMERCIAL_RESTAURANT.png/150px-COMMERCIAL_RESTAURANT.png 1.5x, /images/thumb/6/67/COMMERCIAL_RESTAURANT.png/200px-COMMERCIAL_RESTAURANT.png 2x"></a></td>
+<td>Abductions<br>Terror Site</td>
+<td></td>
+<td>Covert Data Recovery</td>
+<td>Urban Block
+</td></tr>
+<tr>
+<td><a href="/index.php?title=CommercialStreet_(EU2012)" title="CommercialStreet (EU2012)">Commercial Street</a></td>
+<td><a href="/index.php?title=File:COMMERCIAL_STREET.png" class="image"><img alt="COMMERCIAL STREET.png" src="/images/thumb/1/1c/COMMERCIAL_STREET.png/100px-COMMERCIAL_STREET.png" decoding="async" width="100" height="50" srcset="/images/thumb/1/1c/COMMERCIAL_STREET.png/150px-COMMERCIAL_STREET.png 1.5x, /images/thumb/1/1c/COMMERCIAL_STREET.png/200px-COMMERCIAL_STREET.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td></td>
+<td>Urban Block
+</td></tr>
+<tr>
+<td><a href="/index.php?title=CommercialStreet_(EU2012)" title="CommercialStreet (EU2012)">Commercial Street Terror</a></td>
+<td><a href="/index.php?title=File:COMMERCIAL_STREET_TERROR.png" class="image"><img alt="COMMERCIAL STREET TERROR.png" src="/images/thumb/e/e1/COMMERCIAL_STREET_TERROR.png/100px-COMMERCIAL_STREET_TERROR.png" decoding="async" width="100" height="50" srcset="/images/thumb/e/e1/COMMERCIAL_STREET_TERROR.png/150px-COMMERCIAL_STREET_TERROR.png 1.5x, /images/thumb/e/e1/COMMERCIAL_STREET_TERROR.png/200px-COMMERCIAL_STREET_TERROR.png 2x"></a></td>
+<td>Terror Site</td>
+<td></td>
+<td></td>
+<td>Urban Block
+</td></tr>
+<tr>
+<td><a href="/index.php?title=CnfndLight_(EU2012)" title="CnfndLight (EU2012)">Confounding Light</a></td>
+<td><a href="/index.php?title=File:CnfndLight.png" class="image"><img alt="CnfndLight.png" src="/images/thumb/5/57/CnfndLight.png/100px-CnfndLight.png" decoding="async" width="100" height="50" srcset="/images/thumb/5/57/CnfndLight.png/150px-CnfndLight.png 1.5x, /images/thumb/5/57/CnfndLight.png/200px-CnfndLight.png 2x"></a></td>
+<td>Abductions</td>
+<td>Slingshot Campaign</td>
+<td></td>
+<td>Urban Block
+</td></tr>
+<tr>
+<td><a href="/index.php?title=ConvenienceStore_(EU2012)" title="ConvenienceStore (EU2012)">Convenience Store</a></td>
+<td><a href="/index.php?title=File:CONVENIENCE_STORE_(EU2012).png" class="image"><img alt="CONVENIENCE STORE (EU2012).png" src="/images/thumb/8/83/CONVENIENCE_STORE_%28EU2012%29.png/100px-CONVENIENCE_STORE_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/8/83/CONVENIENCE_STORE_%28EU2012%29.png/150px-CONVENIENCE_STORE_%28EU2012%29.png 1.5x, /images/thumb/8/83/CONVENIENCE_STORE_%28EU2012%29.png/200px-CONVENIENCE_STORE_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td></td>
+<td>Urban Block
+</td></tr>
+<tr>
+<td><a href="/index.php?title=ConvenienceStore_(EU2012)" title="ConvenienceStore (EU2012)">Convenience Store EWI</a></td>
+<td><a href="/index.php?title=File:Convienience_Store_EWI_(EU2012).png" class="image"><img alt="Convienience Store EWI (EU2012).png" src="/images/thumb/b/bd/Convienience_Store_EWI_%28EU2012%29.png/100px-Convienience_Store_EWI_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/b/bd/Convienience_Store_EWI_%28EU2012%29.png/150px-Convienience_Store_EWI_%28EU2012%29.png 1.5x, /images/thumb/b/bd/Convienience_Store_EWI_%28EU2012%29.png/200px-Convienience_Store_EWI_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td>Covert Extraction</td>
+<td>Urban Block
+</td></tr>
+<tr>
+<td><a href="/index.php?title=ConvenienceStore_(EU2012)" title="ConvenienceStore (EU2012)">Convenience Store Terror</a></td>
+<td><a href="/index.php?title=File:CONVENIENCE_STORE_TERROR_(EU2012).png" class="image"><img alt="CONVENIENCE STORE TERROR (EU2012).png" src="/images/thumb/4/4d/CONVENIENCE_STORE_TERROR_%28EU2012%29.png/100px-CONVENIENCE_STORE_TERROR_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/4/4d/CONVENIENCE_STORE_TERROR_%28EU2012%29.png/150px-CONVENIENCE_STORE_TERROR_%28EU2012%29.png 1.5x, /images/thumb/4/4d/CONVENIENCE_STORE_TERROR_%28EU2012%29.png/200px-CONVENIENCE_STORE_TERROR_%28EU2012%29.png 2x"></a></td>
+<td>Terror Site</td>
+<td></td>
+<td></td>
+<td>Urban Block
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Deluge_Map_(EU2012)" title="Deluge Map (EU2012)">Deluge</a></td>
+<td><a href="/index.php?title=File:Deluge_(EU2012).png" class="image"><img alt="Deluge (EU2012).png" src="/images/thumb/d/dc/Deluge_%28EU2012%29.png/100px-Deluge_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/d/dc/Deluge_%28EU2012%29.png/150px-Deluge_%28EU2012%29.png 1.5x, /images/thumb/d/dc/Deluge_%28EU2012%29.png/200px-Deluge_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td>Progeny Campaign</td>
+<td></td>
+<td>Roadway
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Demolition_EWI_(EU2012)" title="Demolition EWI (EU2012)">Demolition EWI</a></td>
+<td><a href="/index.php?title=File:Demolition_EWI_(EU2012).png" class="image"><img alt="Demolition EWI (EU2012).png" src="/images/thumb/7/75/Demolition_EWI_%28EU2012%29.png/100px-Demolition_EWI_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/7/75/Demolition_EWI_%28EU2012%29.png/150px-Demolition_EWI_%28EU2012%29.png 1.5x, /images/thumb/7/75/Demolition_EWI_%28EU2012%29.png/200px-Demolition_EWI_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td>Covert Data Recovery</td>
+<td>Urban Close Quarters
+</td></tr>
+<tr>
+<td><a href="/index.php?title=FastFood_(EU2012)" title="FastFood (EU2012)">Fast Food</a></td>
+<td><a href="/index.php?title=File:FAST_FOOD_(EU2012).png" class="image"><img alt="FAST FOOD (EU2012).png" src="/images/thumb/d/dd/FAST_FOOD_%28EU2012%29.png/100px-FAST_FOOD_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/d/dd/FAST_FOOD_%28EU2012%29.png/150px-FAST_FOOD_%28EU2012%29.png 1.5x, /images/thumb/d/dd/FAST_FOOD_%28EU2012%29.png/200px-FAST_FOOD_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td></td>
+<td>Urban Close Quarters
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Fast_Food_EWI_(EU2012)" title="Fast Food EWI (EU2012)">Fast Food EWI</a></td>
+<td><a href="/index.php?title=File:Fast_Food_EWI_(EU2012).png" class="image"><img alt="Fast Food EWI (EU2012).png" src="/images/thumb/c/c7/Fast_Food_EWI_%28EU2012%29.png/100px-Fast_Food_EWI_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/c/c7/Fast_Food_EWI_%28EU2012%29.png/150px-Fast_Food_EWI_%28EU2012%29.png 1.5x, /images/thumb/c/c7/Fast_Food_EWI_%28EU2012%29.png/200px-Fast_Food_EWI_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td>Bomb Disposal</td>
+<td></td>
+<td>Urban Close Quarters
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Gas_Station_EWI_(EU2012)" title="Gas Station EWI (EU2012)">Gas Station EWI</a></td>
+<td><a href="/index.php?title=File:Gas_Station_EWI_(EU2012).png" class="image"><img alt="Gas Station EWI (EU2012).png" src="/images/thumb/7/72/Gas_Station_EWI_%28EU2012%29.png/100px-Gas_Station_EWI_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/7/72/Gas_Station_EWI_%28EU2012%29.png/150px-Gas_Station_EWI_%28EU2012%29.png 1.5x, /images/thumb/7/72/Gas_Station_EWI_%28EU2012%29.png/200px-Gas_Station_EWI_%28EU2012%29.png 2x"></a></td>
+<td>Abductions<br>Terror Site</td>
+<td></td>
+<td>Covert Data Recovery</td>
+<td>Settlement
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Highway1_(EU2012)" title="Highway1 (EU2012)">Highway 1</a></td>
+<td><a href="/index.php?title=File:Highway1.png" class="image"><img alt="Highway1.png" src="/images/thumb/9/99/Highway1.png/100px-Highway1.png" decoding="async" width="100" height="50" srcset="/images/thumb/9/99/Highway1.png/150px-Highway1.png 1.5x, /images/thumb/9/99/Highway1.png/200px-Highway1.png 2x"></a></td>
+<td>Abductions<br>Terror Site</td>
+<td></td>
+<td></td>
+<td>Roadway
+</td></tr>
+<tr>
+<td><a href="/index.php?title=HighwayBridge_(EU2012)" title="HighwayBridge (EU2012)">Highway Bridge</a></td>
+<td><a href="/index.php?title=File:HighwayBridge.png" class="image"><img alt="HighwayBridge.png" src="/images/thumb/9/90/HighwayBridge.png/100px-HighwayBridge.png" decoding="async" width="100" height="50" srcset="/images/thumb/9/90/HighwayBridge.png/150px-HighwayBridge.png 1.5x, /images/thumb/9/90/HighwayBridge.png/200px-HighwayBridge.png 2x"></a></td>
+<td>Abductions</td>
+<td>Bomb Disposal</td>
+<td></td>
+<td>Roadway
+</td></tr>
+<tr>
+<td><a href="/index.php?title=HighwayConstruction_(EU2012)" title="HighwayConstruction (EU2012)">Highway Construction</a></td>
+<td><a href="/index.php?title=File:HIGHWAY_CONSTRUCTION_(EU2012).png" class="image"><img alt="HIGHWAY CONSTRUCTION (EU2012).png" src="/images/thumb/c/cd/HIGHWAY_CONSTRUCTION_%28EU2012%29.png/100px-HIGHWAY_CONSTRUCTION_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/c/cd/HIGHWAY_CONSTRUCTION_%28EU2012%29.png/150px-HIGHWAY_CONSTRUCTION_%28EU2012%29.png 1.5x, /images/thumb/c/cd/HIGHWAY_CONSTRUCTION_%28EU2012%29.png/200px-HIGHWAY_CONSTRUCTION_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td>Covert Data Recovery</td>
+<td>Roadway
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Highway_Construction_EWI_(EU2012)" title="Highway Construction EWI (EU2012)">Highway Construction EWI</a></td>
+<td><a href="/index.php?title=File:Highway_Construction_EWI_(EU2012).png" class="image"><img alt="Highway Construction EWI (EU2012).png" src="/images/thumb/0/0c/Highway_Construction_EWI_%28EU2012%29.png/100px-Highway_Construction_EWI_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/0/0c/Highway_Construction_EWI_%28EU2012%29.png/150px-Highway_Construction_EWI_%28EU2012%29.png 1.5x, /images/thumb/0/0c/Highway_Construction_EWI_%28EU2012%29.png/200px-Highway_Construction_EWI_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td>Covert Extraction</td>
+<td>Roadway
+</td></tr>
+<tr>
+<td><a href="/index.php?title=HighwayFallen_(EU2012)" title="HighwayFallen (EU2012)">Highway Fallen</a></td>
+<td><a href="/index.php?title=File:HighwayFallen.png" class="image"><img alt="HighwayFallen.png" src="/images/thumb/b/b0/HighwayFallen.png/100px-HighwayFallen.png" decoding="async" width="100" height="50" srcset="/images/thumb/b/b0/HighwayFallen.png/150px-HighwayFallen.png 1.5x, /images/thumb/b/b0/HighwayFallen.png/200px-HighwayFallen.png 2x"></a></td>
+<td>Abductions</td>
+<td>Target Extraction</td>
+<td></td>
+<td>Roadway
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Industrial_Office_(EU2012)" title="Industrial Office (EU2012)">Industrial Office</a></td>
+<td><a href="/index.php?title=File:INDUSTRIAL_OFFICE_(EU2012).png" class="image"><img alt="INDUSTRIAL OFFICE (EU2012).png" src="/images/thumb/1/1a/INDUSTRIAL_OFFICE_%28EU2012%29.png/100px-INDUSTRIAL_OFFICE_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/1/1a/INDUSTRIAL_OFFICE_%28EU2012%29.png/150px-INDUSTRIAL_OFFICE_%28EU2012%29.png 1.5x, /images/thumb/1/1a/INDUSTRIAL_OFFICE_%28EU2012%29.png/200px-INDUSTRIAL_OFFICE_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td>Asset Recovery</td>
+<td>Covert Data Recovery</td>
+<td>Urban Large Structure
+</td></tr>
+<tr>
+<td><a href="/index.php?title=LiquorStore_(EU2012)" title="LiquorStore (EU2012)">Liquor Store</a></td>
+<td><a href="/index.php?title=File:LiquorStore.png" class="image"><img alt="LiquorStore.png" src="/images/thumb/1/1c/LiquorStore.png/100px-LiquorStore.png" decoding="async" width="100" height="50" srcset="/images/thumb/1/1c/LiquorStore.png/150px-LiquorStore.png 1.5x, /images/thumb/1/1c/LiquorStore.png/200px-LiquorStore.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td>Covert Extraction</td>
+<td>Urban Large Structure
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Low_Friends_(EU2012)" title="Low Friends (EU2012)">Low Friends</a></td>
+<td><a href="/index.php?title=File:LowFriends.png" class="image"><img alt="LowFriends.png" src="/images/thumb/8/8c/LowFriends.png/100px-LowFriends.png" decoding="async" width="100" height="50" srcset="/images/thumb/8/8c/LowFriends.png/150px-LowFriends.png 1.5x, /images/thumb/8/8c/LowFriends.png/200px-LowFriends.png 2x"></a></td>
+<td>Abductions</td>
+<td>Slingshot Campaign</td>
+<td></td>
+<td>Urban Close Quarters
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Meld_Tutorial_Map_(EU2012)" title="Meld Tutorial Map (EU2012)">Meld Tutorial</a></td>
+<td><a href="/index.php?title=File:Meld_Tutorial_(EU2012).png" class="image"><img alt="Meld Tutorial (EU2012).png" src="/images/thumb/2/21/Meld_Tutorial_%28EU2012%29.png/100px-Meld_Tutorial_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/2/21/Meld_Tutorial_%28EU2012%29.png/150px-Meld_Tutorial_%28EU2012%29.png 1.5x, /images/thumb/2/21/Meld_Tutorial_%28EU2012%29.png/200px-Meld_Tutorial_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td></td>
+<td>Urban Block
+</td></tr>
+<tr>
+<td><a href="/index.php?title=MilitaryAmmo_(EU2012)" title="MilitaryAmmo (EU2012)">Military Ammo</a></td>
+<td><a href="/index.php?title=File:MilitaryAmmo.png" class="image"><img alt="MilitaryAmmo.png" src="/images/thumb/7/72/MilitaryAmmo.png/100px-MilitaryAmmo.png" decoding="async" width="100" height="50" srcset="/images/thumb/7/72/MilitaryAmmo.png/150px-MilitaryAmmo.png 1.5x, /images/thumb/7/72/MilitaryAmmo.png/200px-MilitaryAmmo.png 2x"></a></td>
+<td>Abductions<br>Terror Site</td>
+<td></td>
+<td>Covert Extraction</td>
+<td>Settlement
+</td></tr>
+<tr>
+<td><a href="/index.php?title=OfficePaper_(EU2012)" title="OfficePaper (EU2012)">Office Paper</a></td>
+<td><a href="/index.php?title=File:OFFICE_PAPER_(EU2012).png" class="image"><img alt="OFFICE PAPER (EU2012).png" src="/images/thumb/2/26/OFFICE_PAPER_%28EU2012%29.png/100px-OFFICE_PAPER_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/2/26/OFFICE_PAPER_%28EU2012%29.png/150px-OFFICE_PAPER_%28EU2012%29.png 1.5x, /images/thumb/2/26/OFFICE_PAPER_%28EU2012%29.png/200px-OFFICE_PAPER_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td></td>
+<td>Urban Large Structure
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Office_Paper_EWI_(EU2012)" title="Office Paper EWI (EU2012)">Office Paper EWI</a></td>
+<td><a href="/index.php?title=File:Office_Paper_EWI_(EU2012).png" class="image"><img alt="Office Paper EWI (EU2012).png" src="/images/thumb/c/cd/Office_Paper_EWI_%28EU2012%29.png/100px-Office_Paper_EWI_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/c/cd/Office_Paper_EWI_%28EU2012%29.png/150px-Office_Paper_EWI_%28EU2012%29.png 1.5x, /images/thumb/c/cd/Office_Paper_EWI_%28EU2012%29.png/200px-Office_Paper_EWI_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td>Covert Data Recovery</td>
+<td>Urban Large Structure
+</td></tr>
+<tr>
+<td><a href="/index.php?title=OfficePaper_(EU2012)" title="OfficePaper (EU2012)">Office Paper Terror</a></td>
+<td><a href="/index.php?title=File:Office_Paper_Terror_(EU2012).png" class="image"><img alt="Office Paper Terror (EU2012).png" src="/images/thumb/d/dd/Office_Paper_Terror_%28EU2012%29.png/100px-Office_Paper_Terror_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/d/dd/Office_Paper_Terror_%28EU2012%29.png/150px-Office_Paper_Terror_%28EU2012%29.png 1.5x, /images/thumb/d/dd/Office_Paper_Terror_%28EU2012%29.png/200px-Office_Paper_Terror_%28EU2012%29.png 2x"></a></td>
+<td>Terror Site</td>
+<td></td>
+<td></td>
+<td>Urban Large Structure
+</td></tr>
+<tr>
+<td><a href="/index.php?title=PierA_(EU2012)" title="PierA (EU2012)">Pier A</a></td>
+<td><a href="/index.php?title=File:PIERA_(EU2012).png" class="image"><img alt="PIERA (EU2012).png" src="/images/thumb/2/2e/PIERA_%28EU2012%29.png/100px-PIERA_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/2/2e/PIERA_%28EU2012%29.png/150px-PIERA_%28EU2012%29.png 1.5x, /images/thumb/2/2e/PIERA_%28EU2012%29.png/200px-PIERA_%28EU2012%29.png 2x"></a></td>
+<td>Abductions<br>Terror Site</td>
+<td>Asset Recovery<br>Target Escort</td>
+<td></td>
+<td>Waterfront
+</td></tr>
+<tr>
+<td><a href="/index.php?title=PierA_(EU2012)" title="PierA (EU2012)">Pier A Asia</a></td>
+<td><a href="/index.php?title=File:PIERA_ACT2(EU2012).png" class="image"><img alt="PIERA ACT2(EU2012).png" src="/images/thumb/d/d7/PIERA_ACT2%28EU2012%29.png/100px-PIERA_ACT2%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/d/d7/PIERA_ACT2%28EU2012%29.png/150px-PIERA_ACT2%28EU2012%29.png 1.5x, /images/thumb/d/d7/PIERA_ACT2%28EU2012%29.png/200px-PIERA_ACT2%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td></td>
+<td>Waterfront
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Pier_A_Terror_(EU2012)" title="Pier A Terror (EU2012)">Pier A Terror</a></td>
+<td><a href="/index.php?title=File:Pier_A_Terror_(EU2012).png" class="image"><img alt="Pier A Terror (EU2012).png" src="/images/thumb/b/be/Pier_A_Terror_%28EU2012%29.png/100px-Pier_A_Terror_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/b/be/Pier_A_Terror_%28EU2012%29.png/150px-Pier_A_Terror_%28EU2012%29.png 1.5x, /images/thumb/b/be/Pier_A_Terror_%28EU2012%29.png/200px-Pier_A_Terror_%28EU2012%29.png 2x"></a></td>
+<td>Abductions<br>Terror Site</td>
+<td></td>
+<td></td>
+<td>Waterfront
+</td></tr>
+<tr>
+<td><a href="/index.php?title=PoliceStation_(EU2012)" title="PoliceStation (EU2012)">Police Station</a></td>
+<td><a href="/index.php?title=File:PoliceStation.png" class="image"><img alt="PoliceStation.png" src="/images/thumb/3/36/PoliceStation.png/100px-PoliceStation.png" decoding="async" width="100" height="50" srcset="/images/thumb/3/36/PoliceStation.png/150px-PoliceStation.png 1.5x, /images/thumb/3/36/PoliceStation.png/200px-PoliceStation.png 2x"></a></td>
+<td>Abductions<br>Terror Site</td>
+<td></td>
+<td>Covert Data Recovery</td>
+<td>Urban Large Structure
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Portent_(EU2012)" title="Portent (EU2012)">Portent</a></td>
+<td><a href="/index.php?title=File:Portent_(EU2012).png" class="image"><img alt="Portent (EU2012).png" src="/images/thumb/f/f5/Portent_%28EU2012%29.png/100px-Portent_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/f/f5/Portent_%28EU2012%29.png/150px-Portent_%28EU2012%29.png 1.5x, /images/thumb/f/f5/Portent_%28EU2012%29.png/200px-Portent_%28EU2012%29.png 2x"></a></td>
+<td>Abductions<br>Terror Site</td>
+<td>Progeny Campaign</td>
+<td>Covert Extraction</td>
+<td>Urban Block
+</td></tr>
+<tr>
+<td><a href="/index.php?title=ResearchOutpost_(EU2012)" title="ResearchOutpost (EU2012)">Research Outpost</a></td>
+<td><a href="/index.php?title=File:ResearchOutpost.png" class="image"><img alt="ResearchOutpost.png" src="/images/thumb/3/32/ResearchOutpost.png/100px-ResearchOutpost.png" decoding="async" width="100" height="50" srcset="/images/thumb/3/32/ResearchOutpost.png/150px-ResearchOutpost.png 1.5x, /images/thumb/3/32/ResearchOutpost.png/200px-ResearchOutpost.png 2x"></a></td>
+<td>Abductions<br>Terror Site</td>
+<td>Asset Recovery<br>Target Escort</td>
+<td>Covert Extraction</td>
+<td>Settlement
+</td></tr>
+<tr>
+<td><a href="/index.php?title=RooftopsConst_(EU2012)" title="RooftopsConst (EU2012)">Rooftops Const</a></td>
+<td><a href="/index.php?title=File:RooftopsConst2.png" class="image"><img alt="RooftopsConst2.png" src="/images/thumb/f/f8/RooftopsConst2.png/100px-RooftopsConst2.png" decoding="async" width="100" height="50" srcset="/images/thumb/f/f8/RooftopsConst2.png/150px-RooftopsConst2.png 1.5x, /images/thumb/f/f8/RooftopsConst2.png/200px-RooftopsConst2.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td>Covert Data Recovery</td>
+<td>Urban Large Structure
+</td></tr>
+<tr>
+<td><a href="/index.php?title=RooftopsConst_(EU2012)" title="RooftopsConst (EU2012)">Rooftops Const Asia</a></td>
+<td><a href="/index.php?title=File:RooftopsConst.png" class="image"><img alt="RooftopsConst.png" src="/images/thumb/b/b5/RooftopsConst.png/100px-RooftopsConst.png" decoding="async" width="100" height="50" srcset="/images/thumb/b/b5/RooftopsConst.png/150px-RooftopsConst.png 1.5x, /images/thumb/b/b5/RooftopsConst.png/200px-RooftopsConst.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td></td>
+<td>Urban Large Structure
+</td></tr>
+<tr>
+<td><a href="/index.php?title=SlaughterhouseA_(EU2012)" title="SlaughterhouseA (EU2012)">Slaughterhouse A</a></td>
+<td><a href="/index.php?title=File:SLAUGHTERHOUSE_A_(EU2012).png" class="image"><img alt="SLAUGHTERHOUSE A (EU2012).png" src="/images/thumb/f/fa/SLAUGHTERHOUSE_A_%28EU2012%29.png/100px-SLAUGHTERHOUSE_A_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/f/fa/SLAUGHTERHOUSE_A_%28EU2012%29.png/150px-SLAUGHTERHOUSE_A_%28EU2012%29.png 1.5x, /images/thumb/f/fa/SLAUGHTERHOUSE_A_%28EU2012%29.png/200px-SLAUGHTERHOUSE_A_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td>Bomb Disposal</td>
+<td></td>
+<td>Urban Block
+</td></tr>
+<tr>
+<td><a href="/index.php?title=SmallCemetery_(EU2012)" title="SmallCemetery (EU2012)">Small Cemetery</a></td>
+<td><a href="/index.php?title=File:SMALL_CEMETERY_(EU2012).png" class="image"><img alt="SMALL CEMETERY (EU2012).png" src="/images/thumb/b/bd/SMALL_CEMETERY_%28EU2012%29.png/100px-SMALL_CEMETERY_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/b/bd/SMALL_CEMETERY_%28EU2012%29.png/150px-SMALL_CEMETERY_%28EU2012%29.png 1.5x, /images/thumb/b/bd/SMALL_CEMETERY_%28EU2012%29.png/200px-SMALL_CEMETERY_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td></td>
+<td>Urban Close Quarters
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Small_Scout_Nuked_City_(EU2012)" title="Small Scout Nuked City (EU2012)">Small Scout Nuked City</a></td>
+<td><a href="/index.php?title=File:Small_Scout_Nuked_City_(EU2012).png" class="image"><img alt="Small Scout Nuked City (EU2012).png" src="/images/thumb/b/ba/Small_Scout_Nuked_City_%28EU2012%29.png/100px-Small_Scout_Nuked_City_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/b/ba/Small_Scout_Nuked_City_%28EU2012%29.png/150px-Small_Scout_Nuked_City_%28EU2012%29.png 1.5x, /images/thumb/b/ba/Small_Scout_Nuked_City_%28EU2012%29.png/200px-Small_Scout_Nuked_City_%28EU2012%29.png 2x"></a></td>
+<td>Terror Site</td>
+<td></td>
+<td></td>
+<td>Urban Block
+</td></tr>
+<tr>
+<td><a href="/index.php?title=StreetHurricane_(EU2012)" title="StreetHurricane (EU2012)">Street Hurricane</a></td>
+<td><a href="/index.php?title=File:STREET_HURRICANE_(EU2012).png" class="image"><img alt="STREET HURRICANE (EU2012).png" src="/images/thumb/8/82/STREET_HURRICANE_%28EU2012%29.png/100px-STREET_HURRICANE_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/8/82/STREET_HURRICANE_%28EU2012%29.png/150px-STREET_HURRICANE_%28EU2012%29.png 1.5x, /images/thumb/8/82/STREET_HURRICANE_%28EU2012%29.png/200px-STREET_HURRICANE_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td>Bomb Disposal</td>
+<td></td>
+<td>Roadway
+</td></tr>
+<tr>
+<td><a href="/index.php?title=StreetHurricane_(EU2012)" title="StreetHurricane (EU2012)">Street Hurricane Terror</a></td>
+<td><a href="/index.php?title=File:STREET_HURRICANE_TERROR_(EU2012).png" class="image"><img alt="STREET HURRICANE TERROR (EU2012).png" src="/images/thumb/1/15/STREET_HURRICANE_TERROR_%28EU2012%29.png/100px-STREET_HURRICANE_TERROR_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/1/15/STREET_HURRICANE_TERROR_%28EU2012%29.png/150px-STREET_HURRICANE_TERROR_%28EU2012%29.png 1.5x, /images/thumb/1/15/STREET_HURRICANE_TERROR_%28EU2012%29.png/200px-STREET_HURRICANE_TERROR_%28EU2012%29.png 2x"></a></td>
+<td>Terror Site</td>
+<td></td>
+<td></td>
+<td>Roadway
+</td></tr>
+<tr>
+<td><a href="/index.php?title=StreetOverpass_(EU2012)" title="StreetOverpass (EU2012)">Street Overpass</a></td>
+<td><a href="/index.php?title=File:StreetOverpass.png" class="image"><img alt="StreetOverpass.png" src="/images/thumb/e/ea/StreetOverpass.png/100px-StreetOverpass.png" decoding="async" width="100" height="50" srcset="/images/thumb/e/ea/StreetOverpass.png/150px-StreetOverpass.png 1.5x, /images/thumb/e/ea/StreetOverpass.png/200px-StreetOverpass.png 2x"></a></td>
+<td>Abductions<br>Terror Site</td>
+<td>Asset Recovery</td>
+<td></td>
+<td>Roadway
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Street_Overpass_EWI_(EU2012)" title="Street Overpass EWI (EU2012)">Street Overpass EWI</a></td>
+<td><a href="/index.php?title=File:Street_Overpass_EWI_(EU2012).png" class="image"><img alt="Street Overpass EWI (EU2012).png" src="/images/thumb/3/3d/Street_Overpass_EWI_%28EU2012%29.png/100px-Street_Overpass_EWI_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/3/3d/Street_Overpass_EWI_%28EU2012%29.png/150px-Street_Overpass_EWI_%28EU2012%29.png 1.5x, /images/thumb/3/3d/Street_Overpass_EWI_%28EU2012%29.png/200px-Street_Overpass_EWI_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td>Covert Extraction</td>
+<td>Roadway
+</td></tr>
+<tr>
+<td><a href="/index.php?title=TrainStation_(EU2012)" title="TrainStation (EU2012)">Train Station</a></td>
+<td><a href="/index.php?title=File:TrainStation.png" class="image"><img alt="TrainStation.png" src="/images/thumb/d/d0/TrainStation.png/100px-TrainStation.png" decoding="async" width="100" height="50" srcset="/images/thumb/d/d0/TrainStation.png/150px-TrainStation.png 1.5x, /images/thumb/d/d0/TrainStation.png/200px-TrainStation.png 2x"></a></td>
+<td>Abductions<br>Terror Site</td>
+<td>Bomb Disposal</td>
+<td></td>
+<td>Urban Large Structure
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Trainyard_(EU2012)" title="Trainyard (EU2012)">Trainyard</a></td>
+<td><a href="/index.php?title=File:Trainyard.png" class="image"><img alt="Trainyard.png" src="/images/thumb/6/66/Trainyard.png/100px-Trainyard.png" decoding="async" width="100" height="50" srcset="/images/thumb/6/66/Trainyard.png/150px-Trainyard.png 1.5x, /images/thumb/6/66/Trainyard.png/200px-Trainyard.png 2x"></a></td>
+<td>Abductions<br>Terror Site</td>
+<td>Bomb Disposal</td>
+<td>Covert Extraction</td>
+<td>Settlement
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Truckstop_(EU2012)" title="Truckstop (EU2012)">Truckstop</a></td>
+<td><a href="/index.php?title=File:TRUCKSTOP_(EU2012).png" class="image"><img alt="TRUCKSTOP (EU2012).png" src="/images/thumb/6/6c/TRUCKSTOP_%28EU2012%29.png/100px-TRUCKSTOP_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/6/6c/TRUCKSTOP_%28EU2012%29.png/150px-TRUCKSTOP_%28EU2012%29.png 1.5x, /images/thumb/6/6c/TRUCKSTOP_%28EU2012%29.png/200px-TRUCKSTOP_%28EU2012%29.png 2x"></a></td>
+<td>Abductions<br>Terror Site</td>
+<td>Asset Recovery</td>
+<td></td>
+<td>Urban Block
+</td></tr>
+<tr>
+<td><a href="/index.php?title=Truckstop_(EU2012)" title="Truckstop (EU2012)">Truckstop EWI</a></td>
+<td><a href="/index.php?title=File:Truck_Stop_EWI_(EU2012).png" class="image"><img alt="Truck Stop EWI (EU2012).png" src="/images/thumb/8/83/Truck_Stop_EWI_%28EU2012%29.png/100px-Truck_Stop_EWI_%28EU2012%29.png" decoding="async" width="100" height="50" srcset="/images/thumb/8/83/Truck_Stop_EWI_%28EU2012%29.png/150px-Truck_Stop_EWI_%28EU2012%29.png 1.5x, /images/thumb/8/83/Truck_Stop_EWI_%28EU2012%29.png/200px-Truck_Stop_EWI_%28EU2012%29.png 2x"></a></td>
+<td>Abductions</td>
+<td></td>
+<td>Covert Data Recovery</td>
+<td>Urban Block
+</td></tr>
+</tbody><tfoot></tfoot></table>
